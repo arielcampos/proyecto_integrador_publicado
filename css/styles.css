@@ -463,7 +463,7 @@ button:hover {
 }
 
 /*-------------------------------------------*/
-/*- Seccion  de servicios 
+/*- Seccion  de Testimonios 
 ------------------------------------------*/
 
 .holder {
@@ -476,6 +476,12 @@ button:hover {
     font-size:1.5em;
     color:#025add;
 
+}
+.novedades {
+    border : solid 1px #ccc;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
 }
 
 .novedades h3 {
@@ -514,9 +520,6 @@ button:hover {
     
 }
 
-.precios-holder h2{
-     
-}
 
 .precios-holder h3{  
     color:#b8651d;
